@@ -1,0 +1,9 @@
+.footerMain {
+    background-color: #fc2929;
+    text-align: center;
+    color: white;
+    height: 20%;
+    float: left;
+    width: 100%;
+    border: solid black;
+  }

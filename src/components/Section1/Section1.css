@@ -1,0 +1,8 @@
+.sectionMain {
+    float: left;
+    width: 30%;
+    height: 450px; /* Should be removed. Only for demonstration */
+    background: #e6ffff;
+    text-align: center;
+    border: solid black;
+}
